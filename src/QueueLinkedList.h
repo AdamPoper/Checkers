@@ -1,7 +1,7 @@
 #pragma once
 #include <iostream>
 #include <assert.h>
-
+// this is a custom Queue data structure implemented by linked list
 namespace ap
 {
 	template<typename type> class QueueLinkedList;
